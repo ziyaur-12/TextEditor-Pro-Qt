@@ -1,6 +1,6 @@
 # 📝 TextEditor Pro — C++ Qt Project
 
-## 🎓 1st Year C++ College Project
+## 🎓 Basic C++ College Project
 
 **Technology:** C++ with Qt 5/6 Framework  
 **Features:** Login System + File CRUD Operations + GUI
